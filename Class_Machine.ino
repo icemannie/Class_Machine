@@ -2,7 +2,7 @@
 /*
    GWC club intoductory machine
 Simple program to show use of IDE and Github
-John Boyle September 2108
+John Boyle September 2018
 */
 
 
